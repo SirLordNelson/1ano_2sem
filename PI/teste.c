@@ -30,7 +30,6 @@ int maxCresc (int v[], int N){
     }
     return acc;
 }
-// está correto e fiz tudo sozinho
 
 // outra resposta mais eficiente:
 int maxCresc(int v[], int N){
@@ -80,7 +79,6 @@ int comunsOrd (int a[], int na, int b[], int nb){
     }
     return acc;
 }
-// está correto e fiz tudo sozinho
 //outra alternativa:
 
 int comunsOrd(int a[], int na, int b[], int nb){
@@ -131,7 +129,6 @@ Posicao posFinal (Posicao inicial, Movimento mov[], int N){
     }
     return inicial;
 }
-//fiz tudo bem e sozinho
 
 //48
 int caminho(Posicao inicial, Posicao final, Movimento mov[], int N){
@@ -205,7 +202,6 @@ void remreps (LInt l){
         }
     }
 }
-//está bem e fiz sozinho
 
 /////////////////////////////////////////////////////Testes//////////////////////////////////////////////////////
 
@@ -217,7 +213,6 @@ int nesimo(int a[], int N, int i){
     for(; i > 0 0; i--);
     return a[i - 1];
 }
-//cometi um erro no return
 
 void isort(int a[], int n) {
     int i, j, aux;
@@ -227,7 +222,6 @@ void isort(int a[], int n) {
         a[j] = aux;
     }
 }
-//tenho que estudar e memorizar alguns dos sorts
 
 //2
 typedef struct LInt_nodo {
@@ -274,7 +268,6 @@ LInt caminho(ABin a, int x){
 
     return pt;
 }
-//fiz quase tudo bem, só com uns pequenos erros
 
 //4
 void inc(char s[]) {
@@ -310,8 +303,6 @@ int sacos(int p[], int N, int C){
 
     return nsacos;
 }
-//fiz uma parte bem
-
 
 
 //Exame_2022
@@ -323,7 +314,6 @@ int pesquisa (int a[], int N, int x){
     }
     if(a[i] != x) return -1;
 }
-//a função está bem, mas é um pouco robusta demais
 
 //esta alternativa será melhor:
 int pesquisa(int a[], int N, int x) {
@@ -379,7 +369,6 @@ int apaga(ABin *a, int n) {
     }
     return count;
 }
-//compliquei um pouco na minha resolução original
 
 //4
 void checksum (char s[]){
@@ -445,7 +434,6 @@ int perfeito(int x){
     if(div == x) return 1;
     else return 0;
 }
-//tudo bem, só que me esqueci daquele último else
 
 //2
 typedef struct {
