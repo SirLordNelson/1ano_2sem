@@ -88,7 +88,7 @@ int qDig (unsigned int n){
         aux++;
     }
     return aux;
-}// primeiro exercício que fiz todo sozinho e todo bem à primeira
+}
 
 // Exercício 7 //
 char *strcat (char s1[], char s2[]){
@@ -207,7 +207,8 @@ int iguaisConsecutivos (char s[]){
         }
 
     return acc;
-} // segundo exercício que fiz que está todo bem à primeira
+}
+
 // alternativa:
 int iguaisConsecutivos(char s[])
 {
@@ -262,7 +263,8 @@ int maiorPrefixo (char s1 [], char s2 []){
     }
 
     return ;
-} // terceiro exercício que fiz que está todo bem
+}
+
 // alternativa:
 int maiorPrefixo(char s1[], char s2[])
 {
@@ -317,8 +319,7 @@ int contaVogais (char s[]){
     }
 
     return acc;
-} // quarta que fiz toda bem
-// isVowel é uma função que existe
+} // isVowel é uma função que já existe
 
 // Exercício 22 //
 int contida (char a[], char b[]){
