@@ -1,0 +1,16 @@
+- Contas do GitHub:
+https://github.com/mendess/ResumosMIEI
+https://github.com/oracle-9/PI
+https://github.com/jtexeira/imperative
+https://github.com/Ankeeprojects/100q-PI
+https://github.com/fabiocfabini/College-C-Programming
+
+- Canais:
+https://www.youtube.com/playlist?list=PL68CYy6_BsMumA-XVr1yNcfoutn3NJxB7
+
+- Links:
+https://www.cs.fsu.edu/~myers/c++/notes/pointers1.html
+
+- Vídeos:
+https://www.youtube.com/watch?v=XmPUsrxytP4 (Pointers)
+

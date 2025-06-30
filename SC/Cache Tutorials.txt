@@ -1,0 +1,11 @@
+Direct memory mapping cache:
+https://www.youtube.com/watch?v=V_QS1HzJ8Bc
+https://www.youtube.com/watch?v=OxaYvJquPe0
+
+Associative mapping cache:
+https://www.youtube.com/watch?v=uwnsMaH-iV0
+https://www.youtube.com/watch?v=OGDEsD3hdbk
+
+Set associative cache:
+https://www.youtube.com/watch?v=KhAh6thw_TI
+https://www.youtube.com/watch?v=ejTCm7eHsM8

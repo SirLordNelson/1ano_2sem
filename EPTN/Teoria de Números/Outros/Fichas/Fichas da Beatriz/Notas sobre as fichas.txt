@@ -1,0 +1,14 @@
+Na folha 3 no exercício 27 alínea c tem um erro
+No fim não devia ser 221x16+35x(-101) = 7 mas sim 221x16+35x(-101) = 1 
+E como 1 | 11 já existem soluções e é preciso fazer o resto do processo
+
+Na folha 2 no exercício 19 alínea a tem um erro 
+No princípio tem 72/56 com resto 13 o que está errado devia ser resto 16 
+O resultado final dá x = 4 e y = -3
+
+Na folha 5 no exercício 48 tem um erro 
+Ao dizer que 3X5Y é divisível por 4 tem-se 2x5+Y(mod 4) e não 3x5+Y(mod 4) 
+
+Na folha 5 no exercício 51 alinea c tem um erro 
+Na parte das soluções quando tem 16+301 = 39 devia ser = 59 e o 16+6*301 = 275 devia ser = 274 
+Todos os 301 deviam estar a dividir por 7 e não estão

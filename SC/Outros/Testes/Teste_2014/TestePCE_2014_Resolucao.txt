@@ -1,0 +1,33 @@
+1. a) 3 bits para o hotel / 5 bits com excesso 5 para o andar  / 7 para o número do quarto
+Número que pedem: 011 | 00011 | 00 11 11 1
+
+b) 4 bits 0000 - A  ; 1001 - J ;  1010 - ;
+1001 | 0000 | 1010| ... | 0111
+
+
+2. a) 313 344, base 10
+
+b)  -520 em binário, complemento para 2 = 1111 1111 1101 1111 1000 
+4c808   4c809   4c80a  4c80b   4c80c
+1000   1111     1101   1111     1111, logo é 1101
+
+
+3. a) Em binário: 0.000 1(1 00 1) - A parte final repete-se
+0  / 011 1011 / 1001 1001 1001 
++      59            Matissa exeto o primeiro bit
+
+b) -2^-67, o 0x80080 está em vírgula flutuante (FP)
+
+
+4. a) 0x01 00 00 AA
+
+b) O %ebp aponta para o antigo %ebp (da função que evocou). 
+Acho que é ao contrário, devia ser 0x00 00 70 10, por isso é falso
+
+
+5. a)
+4054   0x0...6FFC
+
+b) esp 0x...6FFC ->  0x...7000
+eip  4054 -> 4055
+eax 0x..0101 -> 0x01 00 00 AA

@@ -1,0 +1,18 @@
+- Canais:
+https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL (Fala um pouco de tudo)
+https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Fala um pouco de tudo, mas é com animações)
+https://www.youtube.com/playlist?list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq (Cache Memory)
+https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA (Assembly Tutorial)
+
+[conjunto de vídeos que explica Cache Memory:
+1) https://www.youtube.com/watch?v=Bz49xnKBH_0
+2) https://www.youtube.com/watch?v=A0vR-ks3hsQ
+3) https://www.youtube.com/watch?v=zocwH0g-qQM
+4) https://www.youtube.com/watch?v=gr5M9CULUZw
+]
+
+- Calculadora:
+https://sc.pta2002.com/
+
+- Resumos:
+https://github.com/mendess/ResumosMIEI
